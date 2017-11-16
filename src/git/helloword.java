@@ -6,5 +6,4 @@ public class helloword {
 		System.out.println("helloworld");
 		System.out.println("commit");
 	}
-
 }
